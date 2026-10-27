@@ -1,0 +1,47 @@
+.acerca-container {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.acerca-titulo-principal {
+  font-size: 42px;
+  margin-bottom: 5px;
+}
+
+.acerca-subtitulo {
+  color: #8b949e;
+  margin-bottom: 40px;
+}
+
+.acerca-card {
+  background: #0d1117;
+  border: 1px solid #30363d;
+  border-radius: 10px;
+  padding: 30px;
+  margin-top: 20px;
+}
+
+.acerca-titulo-azul {
+  color: #58a6ff;
+  font-size: 36px;
+  /* ESTO ARREGLA EL ENCI MADO */
+  line-height: 1.2;
+  position: static;
+  display: block;
+  word-wrap: break-word;
+}
+
+.acerca-card hr {
+  margin: 20px 0;
+  border: 0;
+  border-top: 1px solid #30363d;
+}
+
+.acerca-footer {
+  color: #8b949e;
+  font-size: 14px;
+  margin-top: 60px;
+}
